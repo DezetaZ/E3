@@ -110,6 +110,10 @@ h1{
     color: var(--primary);
     font-size: 28px;
     margin: 0 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 p{
     width: 80%;
